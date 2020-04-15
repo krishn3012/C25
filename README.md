@@ -1,2 +1,2 @@
-# C25
-Using the concept of inheritance and adding of images to all objects
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
